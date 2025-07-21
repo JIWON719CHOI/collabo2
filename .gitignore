@@ -28,3 +28,4 @@ bin/
 ### Mac OS ###
 .DS_Store
 /.idea/
+/collabo2-2.iml
