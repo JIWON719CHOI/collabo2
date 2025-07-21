@@ -12,6 +12,7 @@ public class Main {
             System.out.println("i = " + i);
         }
         System.out.println("팀장이 추가한 코드에요~🐔");
+        System.out.println("깃헙 룰을 만들었따~");
 
         System.out.println("팀원이 수정했어요1");
         System.out.println("팀원이 수정했어요2");
