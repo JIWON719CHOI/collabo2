@@ -13,6 +13,10 @@ public class Main {
         }
         System.out.println("팀장이 추가한 코드에요~🐔");
 
+        System.out.println("팀원이 수정했어요1");
+        System.out.println("팀원이 수정했어요2");
+        System.out.println("팀원이 수정했어요3");
+
         System.out.println("팀원이 작성한 코드");
         int i = 0;
         while (i < 3) {
